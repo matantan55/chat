@@ -1,4 +1,4 @@
-# matan
+# Guide
 chat using python
 1. 
 Create two txt files with the specific following names: admin_port and admin_ip
